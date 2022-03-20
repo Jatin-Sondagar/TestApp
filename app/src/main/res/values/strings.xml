@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="_fetching_data">Fetching Data…</string>
+    <string name="_smthng_went_wrong">Something went wrong…</string>
+    <string name="_sort_alph">Sort Alphabatically</string>
+    <string name="search">Search</string>
+</resources>
